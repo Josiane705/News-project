@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Aggregator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>News Aggregator</h1>
+    <nav>
+        <input type="text" id="searchQuery" placeholder="Search for news...">
+        <button onclick="searchNews()">Search</button>
+    </nav>
+
+    <main>
+        <div id="newsResults"></div>
+        <div id="pagination">
+            <button onclick="changePage('prev')">Previous</button>
+            <button onclick="changePage('next')">Next</button>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 News Aggregator. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
