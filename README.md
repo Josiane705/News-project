@@ -14,11 +14,12 @@ This project is a simple News Aggregator app that fetches and displays news arti
 - HTML
 - CSS
 - JavaScript
-- API: News API (https://newsapi.org/)
+- API: News API ( '14bb64725ac146fb946b68cdc4521fa2')
 
 ## Installation
 1. Clone the repository.
 2. Open the `index.html` file in a web browser to see the app in action.
+3. Deploy on web 01 and web 02
 
 ## License
 This project is open-source and available under the MIT License.
