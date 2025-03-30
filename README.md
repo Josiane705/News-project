@@ -1,4 +1,5 @@
 News-Project
+video :https://vimeo.com/1070757944/2353fdb9f1?ts=0&share=copy
 
 This project is a simple News Aggregator app that fetches and displays news articles from different sources. It allows users to search for news articles and view details like titles, descriptions, and images.
 
